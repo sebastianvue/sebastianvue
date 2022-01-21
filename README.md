@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **sebastian.alexandru9885@gmail.com**
 
-- 🎥 **When I'm not programming I enjoy watching movies and cooking.**
+- 🎥 **When I'm not programming I enjoy watching movies and cooking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
