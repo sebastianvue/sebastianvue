@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Sebastian</h1>
-<h3 align="center">:books: I'm currently studying to get my master's degree in computer science and I enjoy creating UIs in my spare time.</h3>
+<h3 align="center">:books: I'm currently studying to get my master's degree in computer science and I enjoy creating GUIs in my spare time.</h3>
 
 - 📖 I’m currently learning **Vue.JS**
 
